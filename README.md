@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a repo created for the first week module of the "Applied Data Science Capstone" course in Coursera.
+This is a repo created for the final Capstone project in the "Applied Data Science Capstone" Coursera course
